@@ -1,0 +1,27 @@
+body{
+	background-image: url("Let's chat.gif");
+	background-position: center;
+	background-size: cover;
+}
+.header {
+	font-family: 'Yellowtail', cursive;
+}
+.login_div img {
+	margin-top: 10px;
+	border-radius: 50%;
+	width: 200px;
+	height:  200px;
+}
+sup img {
+  width: 100px;
+  height: 100px;
+}
+.login_div {
+	background-color: lightsteelblue;
+	margin-left: 500px;
+	border-radius: 15px;
+}
+button {
+	margin-top: 10px;
+	width: 50%;
+}
