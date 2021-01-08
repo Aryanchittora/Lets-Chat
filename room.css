@@ -1,0 +1,12 @@
+body {
+    background-image: url("Let's Chat.gif");
+    background-position: center;
+    background-size: cover;
+}
+sup img {
+    width: 100px;
+    height: 100px;
+}
+.heading {
+    font-family: 'Yellowtail', cursive;
+}

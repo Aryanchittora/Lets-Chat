@@ -1,7 +1,7 @@
 body{
-	background-image: url("Let's chat.gif");
-	background-position: center;
+	background-image: url("Let's Chat.gif");
 	background-size: cover;
+	background-position: center;
 }
 .header {
 	font-family: 'Yellowtail', cursive;
