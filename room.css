@@ -10,3 +10,8 @@ sup img {
 .heading {
     font-family: 'Yellowtail', cursive;
 }
+#trending_rooms {
+    background-color: lightsteelblue;
+    border:5px solid steelblue;
+    border-radius: 20px;
+}
